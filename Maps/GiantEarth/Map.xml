@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<!-- ++++++++++++++++++++++++++++++ -->
+	<!--   Giant Earth start position   -->
+	<!-- ++++++++++++++++++++++++++++++ -->
+	
+	<!-- Majors -->
+	<StartPosition>
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_AMERICA"	X="155" Y="64" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_AMERICA"	X="130" Y="64" AlternateStart="1" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ARABIA"	X="36" Y="41" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_AUSTRALIA"	X="103" Y="10" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_AZTEC"		X="138" Y="49" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_BRAZIL"	X="167" Y="22" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_BRAZIL"	X="165" Y="34" AlternateStart="1" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CHINA"		X="83" Y="66" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CHINA"		X="87" Y="56" AlternateStart="1" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CHINA"		X="78" Y="60" Leader="LEADER_QIN" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CREE"		X="136" Y="75" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_EGYPT"		X="32" Y="43" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_EGYPT"		X="29" Y="49" Leader="LEADER_CLEOPATRA" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ENGLAND"	X="12" Y="72" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_FRANCE"	X="13" Y="67" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_GEORGIA"	X="43" Y="60" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_GERMANY"	X="22" Y="71" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_GREECE"	X="28" Y="56" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_GREECE"	X="31" Y="60" Leader="LEADER_GORGO" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_INDIA"		X="61" Y="52" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_INDIA"		X="65" Y="49" Leader="LEADER_CHANDRAGUPTA" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_INDONESIA"	X="80" Y="26" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_JAPAN"		X="96" Y="58" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_KHMER"		X="77" Y="40" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_KHMER"		X="76" Y="42" AlternateStart="1" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_KONGO"		X="21" Y="24" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_KOREA"		X="89" Y="61" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_MACEDON"	X="26" Y="60" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_MAPUCHE"	X="155" Y="15" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_MONGOLIA"	X="73" Y="71" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_NETHERLANDS"	X="15" Y="71" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_NORWAY"	X="21" Y="84" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_NUBIA"		X="33" Y="38" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ROME"		X="20" Y="57" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_RUSSIA"	X="36" Y="74" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_RUSSIA"	X="31" Y="78" AlternateStart="1" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SCOTLAND"	X="10" Y="78" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SCYTHIA"	X="47" Y="69" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SPAIN"		X="7" Y="57" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SUMERIA"	X="41" Y="49" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_PERSIA"	X="46" Y="54" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_POLAND"	X="26" Y="71" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ZULU"		X="28" Y="9" />
+	</StartPosition>	
+	
+	<!-- Minors -->
+	<StartPosition>		
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ANTIOCH"		X="37" Y="54" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_AMSTERDAM"		X="15" Y="71" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_BABYLON"		X="40" Y="51" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_BRUSSELS"		X="15" Y="70" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_BUENOS_AIRES"	X="159" Y="15" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CARTHAGE"		X="18" Y="52" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_GENEVA"		X="15" Y="63" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_HATTUSA"		X="37" Y="59" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_HONG_KONG"		X="84" Y="48" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_JAKARTA"		X="80" Y="26" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_JERUSALEM"		X="36" Y="51" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_KABUL"			X="53" Y="55" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_KANDY"			X="62" Y="33" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_KUMASI"		X="11" Y="34" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_LA_VENTA"		X="143" Y="47" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_LISBON"		X="4" Y="56" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_MOHENJO_DARO"	X="55" Y="52" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_NAN_MADOL"		X="105" Y="31" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_PRESLAV"		X="29" Y="61" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SEOUL"			X="89" Y="61" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_STOCKHOLM"		X="24" Y="79" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_TORONTO"		X="152" Y="69" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_VALLETTA"		X="22" Y="51" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_VILNIUS"		X="29" Y="73" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_YEREVAN"		X="43" Y="58" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ZANZIBAR"		X="33" Y="25" />
+		
+		<!-- DLC -->
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_AUCKLAND" 		X="112" Y="12" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ANTANANARIVO" 	X="37" Y="17" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ARMAGH" 		X="6" Y="76" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_GRANADA" 		X="8" Y="54" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_MUSCAT" 		X="45" Y="43" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_PALENQUE" 		X="144" Y="46" />
+		
+	</StartPosition>
+
+	<!-- ++++++++++++++++++++++++++++++ -->
+	<!--  Giant Earth Region position   -->
+	<!-- ++++++++++++++++++++++++++++++ -->
+	<RegionPosition>
+		<Replace MapName="GiantEarth" Region="GROENLAND"			X="157" Y="81" Width="22" Height="12" />
+		<Replace MapName="GiantEarth" Region="NORTH_AMERICA"		X="127" Y="54" Width="43" Height="18" />
+		<Replace MapName="GiantEarth" Region="ARCTIC_AMERICA"		X="113" Y="73" Width="55" Height="20" />
+		<Replace MapName="GiantEarth" Region="CENTRAL_AMERICA"		X="129" Y="38" Width="37" Height="16" />
+		<Replace MapName="GiantEarth" Region="SOUTH_AMERICA_WEST"	X="143" Y="12" Width="18" Height="26" />
+		<Replace MapName="GiantEarth" Region="SOUTH_AMERICA_EAST"	X="162" Y="12" Width="14" Height="26" />
+		<Replace MapName="GiantEarth" Region="ANTARCTIC_AMERICA"	X="151" Y="0" Width="22" Height="12" />
+		<Replace MapName="GiantEarth" Region="AUSTRALIA"			X="83" Y="0" Width="33" Height="25" />
+		<Replace MapName="GiantEarth" Region="OCEANIA"				X="77" Y="19" Width="52" Height="24" />
+		<Replace MapName="GiantEarth" Region="SOUTH_ASIA"			X="57" Y="30" Width="25" Height="17" />
+		<Replace MapName="GiantEarth" Region="CENTRAL_ASIA"			X="47" Y="48" Width="29" Height="20" />
+		<Replace MapName="GiantEarth" Region="EAST_ASIA"			X="73" Y="48" Width="27" Height="19" />
+		<Replace MapName="GiantEarth" Region="NORTH_ASIA"			X="51" Y="61" Width="60" Height="32" />
+		<Replace MapName="GiantEarth" Region="MIDDLE_EAST"			X="30" Y="37" Width="25" Height="17" />
+		<Replace MapName="GiantEarth" Region="TURKEY"				X="30" Y="55" Width="15" Height="5" />
+		<Replace MapName="GiantEarth" Region="MEDITERRANEAN"		X="5" Y="48" Width="33" Height="13" />
+		<Replace MapName="GiantEarth" Region="SOUTH_EUROPA"			X="4" Y="53" Width="26" Height="7" />
+		<Replace MapName="GiantEarth" Region="WEST_EUROPA"			X="2" Y="61" Width="23" Height="12" />
+		<Replace MapName="GiantEarth" Region="NORTH_EUROPA"			X="1" Y="68" Width="51" Height="25" />
+		<Replace MapName="GiantEarth" Region="EAST_EUROPA"			X="26" Y="61" Width="26" Height="17" />
+		<Replace MapName="GiantEarth" Region="NORTH_AFRICA"			X="1" Y="39" Width="34" Height="13" />
+		<Replace MapName="GiantEarth" Region="CENTRAL_AFRICA"		X="2" Y="22" Width="41" Height="16" />
+		<Replace MapName="GiantEarth" Region="SOUTH_AFRICA"			X="20" Y="5" Width="17" Height="16" />
+		<Replace MapName="GiantEarth" Region="MADAGASCAR"			X="39" Y="9" Width="11" Height="17" />
+	</RegionPosition>	
+	<!-- Regions for Deposits -->
+	<RegionPosition>	
+		<Replace MapName="GiantEarth" Region="MIDDLE_EAST_OIL"		X="39" Y="38" Width="13" Height="15" />
+		<Replace MapName="GiantEarth" Region="CASPIEN_OIL"			X="40" Y="57" Width="9" Height="10" />
+		<Replace MapName="GiantEarth" Region="OURAL_OIL"			X="46" Y="71" Width="4" Height="12" />
+		<Replace MapName="GiantEarth" Region="SIBERIAN_OIL"			X="56" Y="74" Width="11" Height="9" />
+		<Replace MapName="GiantEarth" Region="SONGLIAO_OIL"			X="84" Y="67" Width="7" Height="7" />
+		<Replace MapName="GiantEarth" Region="NIGER_OIL"			X="17" Y="31" Width="4" Height="4" />
+		<Replace MapName="GiantEarth" Region="ANGOLA_OIL"			X="22" Y="20" Width="3" Height="10" />
+		<Replace MapName="GiantEarth" Region="ORIENTAL_ERG_OIL"		X="12" Y="46" Width="5" Height="3" />
+		<Replace MapName="GiantEarth" Region="NORTH_AFRICA_OIL"		X="21" Y="46" Width="14" Height="3" />
+		<Replace MapName="GiantEarth" Region="NORTH_SEA_OIL"		X="12" Y="73" Width="3" Height="9" />
+		<Replace MapName="GiantEarth" Region="ROMANIA_OIL"			X="26" Y="60" Width="6" Height="6" />
+		<Replace MapName="GiantEarth" Region="PERUVIAN_OIL"			X="149" Y="29" Width="6" Height="7" />
+		<Replace MapName="GiantEarth" Region="VENEZUELA_OIL"		X="153" Y="39" Width="7" Height="3" />
+		<Replace MapName="GiantEarth" Region="BRAZIL_OIL"			X="170" Y="23" Width="4" Height="8" />
+		<Replace MapName="GiantEarth" Region="GULF_OF_MEXICO_OIL"	X="141" Y="48" Width="5" Height="6" />
+		<Replace MapName="GiantEarth" Region="MIDCONTINENT_US_OIL"	X="140" Y="57" Width="8" Height="5" />
+		<Replace MapName="GiantEarth" Region="WCSB_OIL"				X="132" Y="70" Width="7" Height="8" />
+		<Replace MapName="GiantEarth" Region="CALIFORNIA_OIL"		X="129" Y="58" Width="3" Height="5" />
+		<Replace MapName="GiantEarth" Region="ALASKA_OIL"			X="116" Y="79" Width="3" Height="10" />
+		<Replace MapName="GiantEarth" Region="ARCTIC_OIL"			X="164" Y="77" Width="10" Height="4" />
+		<Replace MapName="GiantEarth" Region="US_COAL"				X="148" Y="59" Width="12" Height="12" />
+		<Replace MapName="GiantEarth" Region="CHINA_COAL"			X="78" Y="48" Width="5" Height="11" />
+		<Replace MapName="GiantEarth" Region="SIBERIA_COAL"			X="64" Y="75" Width="23" Height="9" />
+		<Replace MapName="GiantEarth" Region="RUSSIA_COAL"			X="37" Y="69" Width="7" Height="7" />
+		<Replace MapName="GiantEarth" Region="INDIA_COAL"			X="58" Y="47" Width="6" Height="6" />
+		<Replace MapName="GiantEarth" Region="AUSTRALIA_COAL"		X="98" Y="8" Width="5" Height="7" />
+		<Replace MapName="GiantEarth" Region="SOUTH_AFRICA_COAL"	X="30" Y="8" Width="4" Height="7" />
+		<Replace MapName="GiantEarth" Region="UKRAINE_COAL"			X="33" Y="65" Width="7" Height="3" />
+		<Replace MapName="GiantEarth" Region="KAZAKSTAN_COAL"		X="54" Y="58" Width="3" Height="7" />
+		<Replace MapName="GiantEarth" Region="POLAND_COAL"			X="25" Y="68" Width="6" Height="4" />
+		<Replace MapName="GiantEarth" Region="GERMAN_COAL"			X="15" Y="67" Width="8" Height="2" />
+		<Replace MapName="GiantEarth" Region="INDONESIA_COAL"		X="75" Y="24" Width="11" Height="5" />
+		<Replace MapName="GiantEarth" Region="ENGLAND_COAL"			X="8" Y="71" Width="3" Height="5" />		
+	</RegionPosition>
+
+	<!-- +++++++++++++++++++++++++++ -->
+	<!--      Giant Earth Extra      -->
+	<!-- +++++++++++++++++++++++++++ -->
+
+	<ExtraPlacement>
+		<Replace MapName="GiantEarth" X="31" Y="59" ConfigurationId="ClosedBosphorus" 	TerrainType="TERRAIN_GRASS_HILLS" />
+		<Replace MapName="GiantEarth" X="10" Y="67" ConfigurationId="MontSaintMichel" 	FeatureType="FEATURE_MARSH" />
+		<Replace MapName="GiantEarth" X="10" Y="73" ConfigurationId="Stonehenge" 		ResourceType="RESOURCE_STONE" />
+		<Replace MapName="GiantEarth" X="33" Y="56" ConfigurationId="ArtemisTemple" 	ResourceType="RESOURCE_DEER" />
+		<Replace MapName="GiantEarth" X="29" Y="16" ConfigurationId="GreatZimbabwe" 	ResourceType="RESOURCE_CATTLE" />
+		
+		<!-- When using an invalid type for FeatureType (or ResourceType), the placement code remove the current Feature (or Resource) from the plot -->
+		<Replace MapName="GiantEarth" X="31" Y="41" ConfigurationId="JebelBarkal" 		FeatureType="NONE" TerrainType="TERRAIN_DESERT_HILLS" />
+	</ExtraPlacement>
+	
+	<NaturalWonderPosition>
+
+		<Replace MapName="GiantEarth" X="98" Y="58" FeatureType="FEATURE_SUK_FUJI" TerrainType="TERRAIN_GRASS" />
+
+		<!--
+		<Replace MapName="GiantEarth" X="76" Y="41" FeatureType="FEATURE_SUK_TONLESAP" TerrainType="TERRAIN_COAST" />
+		<Replace MapName="GiantEarth" X="77" Y="40" FeatureType="FEATURE_SUK_TONLESAP" TerrainType="TERRAIN_COAST" />
+		-->
+
+		<Replace MapName="GiantEarth" X="78" Y="45" FeatureType="FEATURE_HA_LONG_BAY" TerrainType="TERRAIN_COAST" />
+		<Replace MapName="GiantEarth" X="79" Y="46" FeatureType="FEATURE_HA_LONG_BAY" TerrainType="TERRAIN_COAST" />
+		
+		<Replace MapName="GiantEarth" X="161" Y="35" FeatureType="FEATURE_RORAIMA" TerrainType="TERRAIN_GRASS_HILLS" />
+		<Replace MapName="GiantEarth" X="162" Y="36" FeatureType="FEATURE_RORAIMA" TerrainType="TERRAIN_GRASS_HILLS" />
+		<Replace MapName="GiantEarth" X="161" Y="36" FeatureType="FEATURE_RORAIMA" TerrainType="TERRAIN_GRASS_HILLS" />
+		<Replace MapName="GiantEarth" X="162" Y="37" FeatureType="FEATURE_RORAIMA" TerrainType="TERRAIN_GRASS_HILLS" />
+		
+		<Replace MapName="GiantEarth" X="71" Y="58" FeatureType="FEATURE_ZHANGYE_DANXIA" TerrainType="TERRAIN_TUNDRA_MOUNTAIN" />
+		<Replace MapName="GiantEarth" X="72" Y="58" FeatureType="FEATURE_ZHANGYE_DANXIA" TerrainType="TERRAIN_TUNDRA_MOUNTAIN" />
+		<Replace MapName="GiantEarth" X="73" Y="58" FeatureType="FEATURE_ZHANGYE_DANXIA" TerrainType="TERRAIN_TUNDRA_MOUNTAIN" />
+		
+		<Replace MapName="GiantEarth" X="70" Y="72" FeatureType="FEATURE_UBSUNUR_HOLLOW" TerrainType="FEATURE_MARSH" />
+		<Replace MapName="GiantEarth" X="71" Y="72" FeatureType="FEATURE_UBSUNUR_HOLLOW" TerrainType="FEATURE_MARSH" />
+		<Replace MapName="GiantEarth" X="70" Y="73" FeatureType="FEATURE_UBSUNUR_HOLLOW" TerrainType="FEATURE_MARSH" />
+		<Replace MapName="GiantEarth" X="71" Y="73" FeatureType="FEATURE_UBSUNUR_HOLLOW" TerrainType="FEATURE_MARSH" />
+		
+		<Replace MapName="GiantEarth" X="4" Y="39" FeatureType="FEATURE_LAKE_RETBA" TerrainType="TERRAIN_GRASS" />
+		<Replace MapName="GiantEarth" X="5" Y="39" FeatureType="FEATURE_LAKE_RETBA" TerrainType="TERRAIN_GRASS" />
+		
+		<Replace MapName="GiantEarth" X="17" Y="64" FeatureType="FEATURE_MATTERHORN" /> 
+		<Replace MapName="GiantEarth" X="136" Y="61" FeatureType="FEATURE_DELICATE_ARCH" />
+		<Replace MapName="GiantEarth" X="8" Y="43" FeatureType="FEATURE_EYE_OF_THE_SAHARA" />
+
+	</NaturalWonderPosition>
+
+</GameData>
