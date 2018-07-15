@@ -46,7 +46,7 @@
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SCYTHIA"	X="47" Y="69" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SPAIN"		X="7" Y="57" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SUMERIA"	X="41" Y="49" />
-		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_PERSIA"	X="46" Y="54" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_PERSIA"	X="48" Y="50" /> <!-- X="46" Y="54" -->
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_POLAND"	X="26" Y="71" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ZULU"		X="28" Y="9" />
 	</StartPosition>	
